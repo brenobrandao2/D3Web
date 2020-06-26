@@ -1,0 +1,11 @@
+article {
+    width: 45%;
+    float: left;
+    padding: 1% 2.5%;
+}
+section {
+    padding: 20px;
+    background-color: cadetblue;
+    border-radius: 8px;
+    margin-top: 20px;
+}
